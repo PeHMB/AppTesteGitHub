@@ -1,0 +1,6 @@
+
+*.cache
+TesteGitHub/obj/Debug/net6.0-windows/TesteGitHub.assets.cache
+TesteGitHub/obj/Debug/net6.0-windows/TesteGitHub.csproj.AssemblyReference.cache
+TesteGitHub/obj/Debug/net6.0-windows/TesteGitHub.GeneratedMSBuildEditorConfig.editorconfig
+TesteGitHub/obj/Debug/net6.0-windows/TesteGitHub.csproj.AssemblyReference.cache
